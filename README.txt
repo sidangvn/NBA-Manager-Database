@@ -1,5 +1,5 @@
 Student name: Si Dang
-UID: U25273656
+UID: U**********
 Project 1 Database Design
 Date: 01/27/2020
 
